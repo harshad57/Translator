@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>translator</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+      <link href="src/style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="container">
+        <div class="b1">
+            <div class="b">
+          <div class="text t1">From
+   <select class="sel"></select>
+      </div>
+      <div id="fix">
+  <textarea spellcheck="false" class="box from-text" placeholder="Enter text to translate"></textarea>
+  </div>
+    </div>
+    <i class="fas fa-exchange-alt"></i>
+    <div class="b">
+          <div class="text t2">To
+   <select class="sel">
+   </select>
+          </div>
+          <div id="fix">
+          <textarea spellcheck="false" readonly disabled class="box to-text"></textarea>
+          </div>
+</div>
+</div>
+   <div id="fix">
+  <div class="trans">Translate Text</div>
+   </div>
+    </div>
+        <script src="src/script.js"></script>
+</body>
+</html>
