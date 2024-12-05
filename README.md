@@ -14,4 +14,4 @@ A simple and responsive multilingual translator app built with **HTML**, **CSS**
 - **JavaScript** : For API integration and interactive functionality.  
 - **MyMemory Translation API** : To fetch and display translations.
 
-Check out the live output :-https://translator-harshad57.vercel.app/
+Check out the live output :- https://translator-harshad57.vercel.app/
