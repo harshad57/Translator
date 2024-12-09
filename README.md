@@ -1,3 +1,4 @@
+live:- https://translator-harshad57.vercel.app
 # Multilingual Translator App  
 
 A simple and responsive multilingual translator app built with **HTML**, **CSS**, and **JavaScript** . This project allows users to translate text between **50+ languages** using the **[MyMemory Translation API](https://mymemory.translated.net/doc/spec.php)** .  
