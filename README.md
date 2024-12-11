@@ -12,7 +12,7 @@ A simple and responsive multilingual translator app built with **HTML**, **CSS**
 ## Technologies Used  :-
 - **HTML** : For the structure of the app.  
 - **CSS** : For styling and responsive design.  
-- **JavaScript** : For API integration and interactive functionality.  
+- **JavaScript** : For [API](https://mymemory.translated.net/doc/spec.php) integration and interactive functionality.  
 - **[MyMemory Translation API](https://mymemory.translated.net/doc/spec.php)** : To fetch and display translations.
 
 Check out the live output :- https://translator-harshad57.vercel.app
